@@ -1,0 +1,32 @@
+{
+	"id": "7ad4cf54-b547-4743-86f1-209ed6f93ccb",
+	"values": [
+		{
+			"key": "local",
+			"value": "localhost:8086",
+			"enabled": false
+		},
+		{
+			"key": "API_PREFIX",
+			"value": "localhost:8088/api/v1/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "API_PREFIX",
+			"value": "http://ubuntu-server-01.local:8099/api/v1/",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "API_PREFIX",
+			"value": "localhost:8099/api/v1/",
+			"type": "default",
+			"enabled": false
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-03-08T15:01:38.443Z",
+	"_postman_exported_using": "Postman/10.23.12"
+}
